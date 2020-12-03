@@ -1,7 +1,7 @@
 # PrimeraPrueba
 Prueba de Admon de BDD
 
-Esta aplicación se genera mediante la CLI de LoopBack 4 con el diseño del proyecto inicial .
+
 Instalar dependencias
 De forma predeterminada, las dependencias se instalaron cuando se generó esta aplicación. Siempre que package.jsonse cambien las dependencias en , ejecute el siguiente comando:
 
